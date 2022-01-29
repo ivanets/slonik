@@ -10,7 +10,7 @@
     ]
   },
   "dependencies": {
-    "ajv": "^6.5.5",
+    "ajv": "^8.8.2",
     "array-flatten": "^2.1.1",
     "boolean": "^0.2.0",
     "es6-error": "^4.1.1",
